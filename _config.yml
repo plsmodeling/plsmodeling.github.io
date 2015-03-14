@@ -1,0 +1,16 @@
+# VARIABLES
+# ---------
+title: plsmodeling
+copyright: "Copyright 2012-2015, Gaston Sanchez."
+
+# YEKYLL
+# ------
+highlighter: pygments
+paginate: 4
+exclude: ['Makefile']
+
+# must be redcarpet, for github style fenced code blocks (```r)
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+permalink: /:year/:month/:day/:title

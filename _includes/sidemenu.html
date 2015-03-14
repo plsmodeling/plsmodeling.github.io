@@ -1,0 +1,8 @@
+{% if page.submenu == 'content' %}{% include content.html %}
+{% elsif page.submenu == 'tutorial' %}{% include tutorial.html %}
+{% elsif page.submenu == 'manual' %}{% include manual.html %}
+{% elsif page.submenu == 'references' %}{% include references.html %}
+{% elsif page.submenu == 'resources' %}{% include resources.html %}
+{% elsif page.submenu == 'about' %}{% include about.html %}
+{% endif %}
+
