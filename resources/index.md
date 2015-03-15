@@ -6,7 +6,7 @@ submenu: resources
 ---
 
 ## Resources ##
-It's very easy to get lost on the middle of the PLS universe. Here you can find a 
+It's very easy to get lost in the middle of the PLS universe. Here you can find a 
 number of resources that may be useful for PLS users and newbies.
 
 Resources related to PLS:

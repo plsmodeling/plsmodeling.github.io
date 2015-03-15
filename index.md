@@ -26,8 +26,9 @@ to the PLS Universe.
 A Component-Based Approach to Structural Equation Modeling** by Heungsun Wang and Yoshio Takane 
 is already available! Check it [here](http://www.crcpress.com/product/isbn/9781466592940)
 
-
-
+<a href="http://www.crcpress.com/product/isbn/9781466592940" target="_blank">
+<img src="http://images.tandf.co.uk/common/jackets/amazon/978146659/9781466592940.jpg" width="200px">
+</a>
 
 
 
