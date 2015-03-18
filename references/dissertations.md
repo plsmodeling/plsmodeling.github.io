@@ -256,7 +256,7 @@ PhD dissertations on PLS and related methods written in the last 10+ years.
     <li>Author: <a href="http://scienti1.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000473529" target="_blank">Víctor Manuel González Rojas</a></li>
     <li>Year: November 2014</li>
     <li>Language: Spanish</li>
-    <li><a href="http://www.tdx.cat/handle/10803/284659" target="_blank">Link</a></li>
+    <li><a href="http://www.tdx.cat/bitstream/handle/10803/284659/TVMGR1de1%20.pdf" target="_blank">Link</a></li>
   </ul>
   </div>
 </div>
