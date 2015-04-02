@@ -13,9 +13,9 @@ Thank you for visiting `plsmodeling.com`, a site dedicated to **Partial Least Sq
 We're slowly brainstorming to bring you better and richer content about PLS. 
 This means redesigning this website and rethinking about its purpose and scope. 
 
-In the meantime, we want to provide a series of references and resources that 
+In the meantime, you will find a series of references and resources that 
 should be useful for all the PLS community as well as for users and readers new 
-to the PLS Universe.
+to PLS methods.
 
 
 ## News ##
@@ -24,7 +24,7 @@ to the PLS Universe.
 
 - The book **Generalized Structure Component Analysis: 
 A Component-Based Approach to Structural Equation Modeling** by Heungsun Wang and Yoshio Takane 
-is already available! Check it [here](http://www.crcpress.com/product/isbn/9781466592940)
+is already available! Find out more [here](http://www.crcpress.com/product/isbn/9781466592940).
 
 <a href="http://www.crcpress.com/product/isbn/9781466592940" target="_blank">
 <img src="http://images.tandf.co.uk/common/jackets/amazon/978146659/9781466592940.jpg" width="200px">

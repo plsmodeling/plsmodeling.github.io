@@ -1,1 +1,2 @@
-This is the website `plsmodeling.com` designed by Gaston Sanchez and built with Jekyll
+Main repository of the website [plsmodeling.com](www.plsmodeling.com) 
+Designed by [Gaston Sanchez](www.gastonsanchez.com) and built with Jekyll
