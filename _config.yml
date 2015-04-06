@@ -6,8 +6,6 @@ copyright: "Copyright 2012-2015, Gaston Sanchez."
 # YEKYLL
 # ------
 highlighter: pygments
-paginate: 4
-exclude: ['Makefile']
 
 # must be redcarpet, for github style fenced code blocks (```r)
 markdown: redcarpet

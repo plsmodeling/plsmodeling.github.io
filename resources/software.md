@@ -144,6 +144,10 @@ Partial least squares Regression for Cox models</a><br>
 <a href="http://www.xlstat.com/en/products-solutions/pls.html" target="_blank">XLSTAT module for PLS regression</a><br>
 *by Addinsoft*
 
+**ADANCO**<br>
+<a href="http://http://www.composite-modeling.com//" target="_blank">ADANCO Professional and Student versions</a><br>
+*by Composite Modeling*
+
 **SAS PLS proc**<br>
 <a href="http://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#statug_pls_sect006.htm" target="_blank">PLS regression procedure</a><br>
 *by SAS*
