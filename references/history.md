@@ -47,6 +47,9 @@ In *The Making of Statisticians*, 89-212. J. Gani (Ed). Springer-Verlag: Berlin.
 *PLS Path Modeling with R*.<br>
 <a href="sanchez-2013-historical-overview-plspm.pdf" target="_target">sanchez-2013-historical-overview-plspm.pdf</a>
 
+- G. Sanchez (2015) **The Saga of PLS**<br>
+<a href="http://sagaofpls.github.io" target="_target">sagaofpls.github.io</a>
+
 
 
 - M.S. Morgan (1990) **The History of Econometric Ideas**<br>
