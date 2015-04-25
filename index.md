@@ -22,6 +22,10 @@ to PLS methods.
 
 - **The Saga of PLS**, an online text exclusively dedicated to the history of Partial Least Squares. Available at: [sagaofpls.github.io](http://sagaofpls.github.io).
 
+<a href="http://sagaofpls.github.io/" target="_blank">
+<img src="images/sagaofpls.png" width="300px">
+</a>
+
 - June 16-19 (2015) **Symposium on PLS Path Modeling** in Seville, Spain.
   [pls-symposium](http://www.pls2015.org/).
 
