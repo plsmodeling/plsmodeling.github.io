@@ -145,7 +145,7 @@ Partial least squares Regression for Cox models</a><br>
 *by Addinsoft*
 
 **ADANCO**<br>
-<a href="http://http://www.composite-modeling.com//" target="_blank">ADANCO Professional and Student versions</a><br>
+<a href="http://www.composite-modeling.com/" target="_blank">ADANCO Professional and Student versions</a><br>
 *by Composite Modeling*
 
 **SAS PLS proc**<br>
